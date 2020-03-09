@@ -5,7 +5,7 @@ for letter in 'Python':     # First Example
 
 var = 10                    # Second Example
 while var > 0:
-    var = var -1
+    var = var - 1
     if var == 5:
         continue
     print('Current variable value :', var)
